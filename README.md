@@ -8,7 +8,7 @@ A generic LaTeX file tailored towards homework/assignments, primarily for Comput
 5. Pseudocode formatting with `algorithm2e`.
 # Installation
 1. Install LaTeX [here](https://latex-project.org/get/).
-2. Compile the file from the commandline with
+2. Compile the file from the command line with
 ```
 $ latexmk main.tex
 ```
